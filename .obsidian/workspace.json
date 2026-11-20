@@ -13,10 +13,10 @@
             "state": {
               "type": "xlsx-viewer",
               "state": {
-                "file": "hardware/BKU_Pinout.xlsx"
+                "file": "hardware/i2c_addr.xlsx"
               },
               "icon": "table-2",
-              "title": "BKU_Pinout"
+              "title": "i2c_addr"
             }
           }
         ]
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,21 +200,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d97d00b73ddefce8",
+  "active": "c018f0be24dbd672",
   "lastOpenFiles": [
+    "hardware/BKU_Pinout.xlsx",
+    "hardware/расчет обратной связи по току катушек.md",
+    "hardware/железо.canvas",
+    "hardware/i2c_addr.xlsx",
     "Текстовый документ.txt",
     "calc/бюджет_данных.xlsx",
     "calc",
     "project",
     "soft",
-    "hardware/BKU_Pinout.xlsx",
-    "hardware/i2c_addr.xlsx",
-    "hardware/расчет обратной связи по току катушек.md",
     "soft/ТЗ на MVP спутника.md",
     "project/эвридей.canvas",
     "project/эвривик.canvas",
     "soft/функции.canvas",
-    "hardware/железо.canvas",
     "hardware",
     "inbox"
   ]
