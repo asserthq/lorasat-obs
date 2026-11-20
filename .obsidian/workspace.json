@@ -13,10 +13,10 @@
             "state": {
               "type": "xlsx-viewer",
               "state": {
-                "file": "hardware/BKU_Pinout.xlsx"
+                "file": "calc/бюджет_данных.xlsx"
               },
               "icon": "table-2",
-              "title": "BKU_Pinout"
+              "title": "бюджет_данных"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/BKU_Pinout.xlsx",
+                "file": "calc/бюджет_данных.xlsx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/BKU_Pinout.xlsx",
+                "file": "calc/бюджет_данных.xlsx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/BKU_Pinout.xlsx",
+                "file": "calc/бюджет_данных.xlsx",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,7 +168,8 @@
               "title": "Структура"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,6 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "vault-lens:Vault Lens Dev: 打开当前文件": false,
       "obsidian-git:Open Git source control": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "omnisearch:Omnisearch": false
@@ -192,14 +192,18 @@
   },
   "active": "c018f0be24dbd672",
   "lastOpenFiles": [
-    "inbox/расчет обратной связи по току катушек.md",
+    "calc",
+    "project",
+    "soft",
     "hardware/BKU_Pinout.xlsx",
-    "inbox/ТЗ на MVP спутника.md",
-    "inbox/бюджет_данных.xlsx",
-    "inbox/эвридей.canvas",
-    "inbox/эвривик.canvas",
-    "inbox/функции.canvas",
-    "inbox/железо.canvas",
+    "hardware/i2c_addr.xlsx",
+    "hardware/расчет обратной связи по току катушек.md",
+    "soft/ТЗ на MVP спутника.md",
+    "calc/бюджет_данных.xlsx",
+    "project/эвридей.canvas",
+    "project/эвривик.canvas",
+    "soft/функции.canvas",
+    "hardware/железо.canvas",
     "hardware",
     "inbox"
   ]
