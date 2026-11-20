@@ -13,10 +13,10 @@
             "state": {
               "type": "xlsx-viewer",
               "state": {
-                "file": "calc/бюджет_данных.xlsx"
+                "file": "hardware/BKU_Pinout.xlsx"
               },
               "icon": "table-2",
-              "title": "бюджет_данных"
+              "title": "BKU_Pinout"
             }
           }
         ]
@@ -167,14 +167,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "70580efa3b35c4f3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +199,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c018f0be24dbd672",
+  "active": "d97d00b73ddefce8",
   "lastOpenFiles": [
+    "Текстовый документ.txt",
+    "calc/бюджет_данных.xlsx",
     "calc",
     "project",
     "soft",
@@ -199,7 +210,6 @@
     "hardware/i2c_addr.xlsx",
     "hardware/расчет обратной связи по току катушек.md",
     "soft/ТЗ на MVP спутника.md",
-    "calc/бюджет_данных.xlsx",
     "project/эвридей.canvas",
     "project/эвривик.canvas",
     "soft/функции.canvas",
