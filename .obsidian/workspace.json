@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4b5bda3051f14c",
+        "id": "35800c72b5dce44e",
         "type": "tabs",
         "children": [
           {
-            "id": "cba8d9898d9e5815",
+            "id": "c018f0be24dbd672",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "xlsx-viewer",
+              "state": {
+                "file": "hardware/BKU_Pinout.xlsx"
+              },
+              "icon": "table-2",
+              "title": "BKU_Pinout"
             }
           }
         ]
@@ -79,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "bf193535cac4dcc5",
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hardware/BKU_Pinout.xlsx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hardware/BKU_Pinout.xlsx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "hardware/BKU_Pinout.xlsx",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,12 +185,21 @@
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
       "vault-lens:Vault Lens Dev: 打开当前文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "cba8d9898d9e5815",
+  "active": "c018f0be24dbd672",
   "lastOpenFiles": [
+    "inbox/расчет обратной связи по току катушек.md",
     "hardware/BKU_Pinout.xlsx",
+    "inbox/ТЗ на MVP спутника.md",
+    "inbox/бюджет_данных.xlsx",
+    "inbox/эвридей.canvas",
+    "inbox/эвривик.canvas",
+    "inbox/функции.canvas",
+    "inbox/железо.canvas",
     "hardware",
     "inbox"
   ]
